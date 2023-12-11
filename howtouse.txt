@@ -1,0 +1,19 @@
+Descargar y descomprimir proyecto
+
+Abrir Sql MS
+Abrir y correr los scripts
+
+Abrir carpetas en Visual
+Cambiar el DB_SERVER en .env
+
+Abrir 2 Terminales
+
+Terminal BackEnd:
+cd backend
+npm i
+npm start
+
+Terminal FrontEnd
+cd frontend
+npm i
+npm start
